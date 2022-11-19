@@ -17,7 +17,7 @@ class _BioState extends State<Bio> {
       ));
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context)  {
     return Scaffold(
       extendBodyBehindAppBar: true,
       appBar: AppBar(
